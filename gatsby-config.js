@@ -96,8 +96,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://geunu.github.io',
-        sitemap: 'https://geunu.github.io/sitemap.xml',
+        host: 'https://geunwoobaek.github.io',
+        sitemap: 'https://geunwoobaek.github.io/sitemap.xml',
         policy: [
           {
             userAgent: '*',
