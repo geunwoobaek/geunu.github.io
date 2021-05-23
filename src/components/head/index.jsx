@@ -52,15 +52,15 @@ export function Head({ description, lang, meta, keywords, title }) {
               },
               {
                 name: `google-site-verification`,
-                content: `1iCtTlkDpYkJeftVgkqFsqEEB43PSSrbZ-Ro1rXcqCk`,
+                content: `ZsnLHPfcZeJ_pyq7GIThd2kTNW7AOJTuzaKgLdBKk3Y`,
               },
             ]
               .concat(
                 keywords.length > 0
                   ? {
-                      name: `keywords`,
-                      content: keywords.join(`, `),
-                    }
+                    name: `keywords`,
+                    content: keywords.join(`, `),
+                  }
                   : []
               )
               .concat(meta)}
