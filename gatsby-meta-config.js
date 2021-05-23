@@ -3,7 +3,7 @@ module.exports = {
   description: `Blog posted about Geunu's Dev Note`,
   author: `Geunwoo`,
   introduction: `[Geunu's Dev Note] 백엔드 개발자 근우의 성장 일기`,
-  siteUrl: `https://geunwoobaek.github.io`, // Your blog site url
+  siteUrl: `https://geunwoobaek.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `geunwoobaek`, // Your GitHub account
